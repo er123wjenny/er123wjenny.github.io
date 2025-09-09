@@ -34,7 +34,7 @@ There are pictures on both the machine and in the manual to direct you where to 
 1. The spool in the bottom is called a bobbin. Make sure to buy the correct type (metal vs plastic). The one that came with your machine will be the correct one.
 2. The metal holder for the bobbin is called the bobbin case. It often has a flap with a screw that the bobbin thread needs to be secured under. This controls the tension of the bottom thread.
 3. The orientation of the bobbin matters. See the manual for which direction you must insert it.
-4. When inserting the bobbin case with bobbin into the machine, There's a little handle on the bobbin case you can hold. This handle is also responsible for "unlockihg" the bobbin case from the machine.
+4. When inserting the bobbin case with bobbin into the machine, There's a little handle on the bobbin case you can hold. This handle is also responsible for "unlocking" the bobbin case from the machine.
 5. **Reloading a bobbin** —> see manual. There are also pictures on the top of the machine showing you where to put the thread for this
     1. When you run out of bottom thread, you can wind new thread onto it yourself.
         1. The needle should not be moving while you wind the bobbin.
