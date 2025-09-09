@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Sewing Machine Quick Start Guide"
 ---
 
