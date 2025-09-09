@@ -75,7 +75,7 @@ Don't do this unless the machine is jammed and you need to free your needle. If 
 
 ## Must haves
 
-- Fabric shears OR a cutting mat with a rotary cutter. Having both is really nice. Regular shears will be quickly dulled by fabric\
+- Fabric shears OR a cutting mat with a rotary cutter. Having both is really nice. Regular shears will be quickly dulled by fabric
 
 ## Nice to have
 
