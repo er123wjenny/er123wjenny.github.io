@@ -2,6 +2,7 @@ layout: page
 title: "Sewing Machine Quick Start Guide"
 permalink: /Sewing/machineQSG
 
+
 This guide assumes that you have some experience with sewing and its relevant terminology and that you have a manual for you sewing machine on-hand. This is more of a collection of tips and things to keep in mind when using a sewing machine, especially if you've never used one before.
 
 Refer to your machine's manual for unfamiliar terminolgy related to sewing machine parts
