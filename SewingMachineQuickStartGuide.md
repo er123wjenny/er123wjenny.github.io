@@ -122,5 +122,7 @@ Using all-purpose polyester thread is great for starting out, as it is relativel
 
 # Cheap ways to practice controlling the machine
 
+--------
+
 1. Grab a sheet of paper and write some huge letters on it in a thin pen/pencil. Sew the letters with or without thread.
 2. Practice straight lines on scrap fabric
