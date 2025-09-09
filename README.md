@@ -1,1 +1,1 @@
-# er123wjenny.github.io
+[Sewing Machine Quick Start Guide](SewingMachineQuickStartGuide.md)
