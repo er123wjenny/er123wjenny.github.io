@@ -10,12 +10,12 @@ Sample PDF of a sewing machine manual: [Singer 8280](https://singerindonesia.com
 
 # Sewing Machine Workflow
 ___
-## Pin pattern pieces together
+## Pinning pattern pieces together
 
 1. pins should be perpendicular to the direction of the seam. 
 2. **NEVER SEW OVER PINS. Remove the pins before they reach the presser foot. The needle can break off if it hits a pin**
 
-## Thread the machine
+## Threading the machine
 
 Sewing machines have a top and bottom thread. 
 
@@ -39,7 +39,7 @@ There are pictures on both the machine and in the manual to direct you where to 
         2. Most bobbins have a small hole near the center that you can thread from the inside out so that you can prevent the bobbin from unwinding in the very beginning.
 6. After both parts are threaded, make sure to hand crank at least one stitch so that you can drag the bottom thread up  through the needle plate. You should keep about a 4in tail so that the needle doesn’t un-thread itself on your first stitch.
 
-## Stitch
+## Stitching
 
 1. Place the fabric under the presser foot and check where the needle is hitting so that it matches the seam allowance you want. The needle plate has markings showing you where each distance is.
 2. Lower the presser foot. There should be a lever in the back to do this
@@ -48,7 +48,6 @@ There are pictures on both the machine and in the manual to direct you where to 
     1. Tip: Hold the fabric in front and behind the machine, not the front and side. keep track of the fabric alignment *before* the needle to get straighter seams.
 5. **Backstitch the end of the seam**
 6. Lift the presser foot and cut thread
-_____
 
 ## Sewing techniques
 
