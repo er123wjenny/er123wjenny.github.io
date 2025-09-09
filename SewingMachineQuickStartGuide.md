@@ -9,7 +9,9 @@ Refer to your machine's manual for unfamiliar terminolgy related to sewing machi
 Sample PDF of a sewing machine manual: [Singer 8280](https://singerindonesia.com/_assets/files/temp/im_8280_en_id.pdf)
 
 # Sewing Machine Workflow
+
 ___
+
 ## Pinning pattern pieces together
 
 1. pins should be perpendicular to the direction of the seam. 
@@ -48,6 +50,8 @@ There are pictures on both the machine and in the manual to direct you where to 
     1. Tip: Hold the fabric in front and behind the machine, not the front and side. keep track of the fabric alignment *before* the needle to get straighter seams.
 5. **Backstitch the end of the seam**
 6. Lift the presser foot and cut thread
+
+___
 
 ## Sewing techniques
 
@@ -107,6 +111,7 @@ Don't do this unless the machine is jammed and you need to free your needle. If 
     - Consider putting a sheet of paper underneath the fabric to give the thread something to hold onto. Then rip the paper away after.
  
 ## Thread considerations
+
 If you have extremely old thread, like thread inherited from your grandma, that thread is more likely to break and you would be better served with new thread on the sewing machine. I use old thread mostly for decorative stitching now.
 
 Using all-purpose polyester thread is great for starting out, as it is relatively cheap and versatile. There are A LOT of [types of thread](https://www.sewingpartsonline.com/blogs/education/ultimate-thread-reference-guide-2) to choose from if all-purpose polyester is not suitable for your project.
