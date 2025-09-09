@@ -9,7 +9,7 @@ Refer to your machine's manual for unfamiliar terminolgy related to sewing machi
 Sample PDF of a sewing machine manual: [Singer 8280](https://singerindonesia.com/_assets/files/temp/im_8280_en_id.pdf)
 
 # Sewing Machine Workflow
-
+___
 ## Pin pattern pieces together
 
 1. pins should be perpendicular to the direction of the seam. 
@@ -48,6 +48,7 @@ There are pictures on both the machine and in the manual to direct you where to 
     1. Tip: Hold the fabric in front and behind the machine, not the front and side. keep track of the fabric alignment *before* the needle to get straighter seams.
 5. **Backstitch the end of the seam**
 6. Lift the presser foot and cut thread
+___
 
 ## Sewing techniques
 
