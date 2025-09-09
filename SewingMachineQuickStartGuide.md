@@ -51,7 +51,7 @@ There are pictures on both the machine and in the manual to direct you where to 
 5. **Backstitch the end of the seam**
 6. Lift the presser foot and cut thread
 
-___
+-----------------
 
 ## Sewing techniques
 
