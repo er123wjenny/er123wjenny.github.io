@@ -48,7 +48,7 @@ There are pictures on both the machine and in the manual to direct you where to 
     1. Tip: Hold the fabric in front and behind the machine, not the front and side. keep track of the fabric alignment *before* the needle to get straighter seams.
 5. **Backstitch the end of the seam**
 6. Lift the presser foot and cut thread
-___
+_____
 
 ## Sewing techniques
 
