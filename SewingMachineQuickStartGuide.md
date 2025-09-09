@@ -51,9 +51,9 @@ There are pictures on both the machine and in the manual to direct you where to 
 5. **Backstitch the end of the seam**
 6. Lift the presser foot and cut thread
 
------------------
-
 ## Sewing techniques
+
+------------
 
 ### Corners
 1. Sew up to the corner and make sure that the eye of the needle is below the fabric. If the needle is not below the fabric, turn the hand wheel towards you until it is. You may need to lift the presser foot so as not to overshoot the corner.
@@ -71,6 +71,8 @@ Don't do this unless the machine is jammed and you need to free your needle. If 
 
 # Tools
 
+-------------
+
 ## Must haves
 
 - Fabric shears OR a cutting mat with a rotary cutter. Having both is really nice. Regular shears will be quickly dulled by fabric\
@@ -84,6 +86,8 @@ Don't do this unless the machine is jammed and you need to free your needle. If 
 - extra bobbins because you don’t want to be forced to unwind one when switching colors
 
 # Materials
+
+--------------
 
 ## Easy to work with materials
 
